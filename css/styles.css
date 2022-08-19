@@ -1,0 +1,23 @@
+body{
+  background-color: #E2DCC8;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  }
+
+h1{
+  color: black;
+}
+h3{
+  color: #2A0944;
+}
+.link:hover{
+  border-radius: 5px;
+  background-color: #F89B4D;
+}
